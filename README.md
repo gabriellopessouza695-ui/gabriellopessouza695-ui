@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="60" alt="OS Boot Sequence" />
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" alt="Terminal Boot Sequence" />
   <h2 align="center" style="color: #00FF00; font-family: monospace;">S Y S T E M . I N I T ( )</h2>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Iniciando+protocolo...;Olá,+eu+sou+o+Gabriel;Estudante+de+Sistemas+de+Informação+@+UFOP;Former+Google+Student+Ambassador;Engenharia+de+Software+%7C+Prefeitura+de+João+Monlevade" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Iniciando+protocolo...;Olá,+eu+sou+o+Gabriel+Lopes;Estudante+de+Sistemas+de+Informação+@+UFOP;Former+Google+Student+Ambassador;Prefeitura+de+João+Monlevade" alt="Typing SVG" />
   </a>
 </div>
 
@@ -11,7 +11,7 @@
 
 ### 🤖 `<About_Me>`
 
-Conectado diretamente de **João Monlevade** para a rede global. Atualmente operando os sistemas da Prefeitura local e processando minha graduação em Sistemas de Informação na **UFOP**. No meu *log* de execução passado, atuei como voluntário no **Google Student Ambassador**, conectando pessoas à inovação. Minha *main thread* atual é focada no ecossistema backend, arquiteturas resilientes e integração de sistemas assíncronos. 
+Conectado diretamente de **João Monlevade** para a rede global. Atualmente operando os sistemas da Prefeitura local e processando minha graduação em Sistemas de Informação na **UFOP**. No meu *log* de execução passado, atuei como voluntário no **Google Student Ambassador**, conectando pessoas à inovação. Minha *main thread* atual é focada no ecossistema backend, com ênfase em arquiteturas resilientes, integração de sistemas assíncronos e automação de fluxos complexos.
 
 <br>
 
@@ -24,7 +24,7 @@ root@mainframe:~$ cat current_goals.json
 {
   "status": "ONLINE",
   "mission": "Desenvolver soluções eficientes de alto impacto",
-  "focus": ["Arquitetura Orientada a Eventos", "Microsserviços"],
+  "focus": ["Arquitetura Orientada a Eventos", "Integração de APIs"],
   "learning_buffer": ["Escalabilidade avançada com Spring Boot", "Roteamento complexo no RabbitMQ"]
 }
 root@mainframe:~$ _
@@ -50,34 +50,33 @@ root@mainframe:~$ _
 
 ### 📂 `<Projects_Directory>`
 
-| 🛡️ **Sistema de Mensageria Municipal** | 🚀 **UFOP Academic Core** |
+| 🛡️ **D.I.G.S** | 🚀 **UFOP Academic Core** |
 | :--- | :--- |
-| Implementação de microsserviços robustos para controle de dados internos utilizando **RabbitMQ** e **Spring Boot**. Foco em alta disponibilidade e fault tolerance. | Algoritmos de processamento de dados universitários desenvolvidos em **C** e **Java** com foco em otimização de memória e tempo de execução. |
-| `[ Status: Deploy ]` | `[ Status: Refactoring ]` |
+| Sistema de gerenciamento estruturado com modelo de espelhamento logístico. Desenvolvimento de integrações fluídas e análise de dados utilizando **Java** no backend. | Algoritmos de processamento de dados universitários desenvolvidos em **C** e **Java** com foco em otimização de memória e tempo de execução. |
+| `[ Status: Active ]` | `[ Status: Refactoring ]` |
 
 <br>
 
 ### 📊 `<System_Telemetry>`
 
 <p align="center">
-  <!-- Altere 'SEU_USUARIO' pelo seu username do GitHub -->
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF00" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true&background=0D1117&fire=00FF00&ring=00FF00" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gabriellopessouza695&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF00" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabriellopessouza695&theme=tokyonight&hide_border=true&background=0D1117&fire=00FF00&ring=00FF00" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF00" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellopessouza695&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF00" alt="Top Languages" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night&bg_color=0D1117&hide_border=true&color=00FF00" alt="Activity Graph" width="98%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabriellopessouza695&theme=tokyo-night&bg_color=0D1117&hide_border=true&color=00FF00" alt="Activity Graph" width="98%" />
 </p>
 
 <br>
 
 ### 🏆 `<Achievements>`
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gabriellopessouza695&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
 </p>
 
 <br>
@@ -85,9 +84,9 @@ root@mainframe:~$ _
 ### 🐍 `<Contribution_Matrix>`
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabriellopessouza695/gabriellopessouza695/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabriellopessouza695/gabriellopessouza695/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gabriellopessouza695/gabriellopessouza695/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
@@ -95,8 +94,9 @@ root@mainframe:~$ _
 
 ### 🔗 `<Establish_Connection>`
 <p align="center">
-  <a href="https://linkedin.com/in/SEU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:SEU_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/gabriel-lopes-90422a241"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/souza_dev06"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:gabriellopessouza695@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
