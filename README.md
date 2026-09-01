@@ -27,10 +27,10 @@
   <summary><b>[ SYSTEM_PROFILE_DATA ]</b></summary>
   <br>
   <blockquote>
-    <p><strong>[+]</strong> 🎓 Estudante de <strong>Sistemas de Informação</strong> na <b>UFOP</b>.</p>
-    <p><strong>[+]</strong> 🏛️ Atuando no setor público na <strong>Prefeitura de João Monlevade</strong>, unindo tecnologia corporativa e impacto social.</p>
-    <p><strong>[+]</strong> 🌐 Ex-voluntário do programa <strong>Google Student Ambassador</strong>.</p>
-    <p><strong>[+]</strong> ⚙️ Foco no desenvolvimento de back-end robusto, mensageria e integração de fluxos complexos.</p>
+    <p><strong></strong> 🎓 Estudante de <strong>Sistemas de Informação</strong> na <b>UFOP</b>.</p>
+    <p><strong></strong> 🏛️ Atuando no setor público na <strong>Prefeitura de João Monlevade</strong>, unindo tecnologia corporativa e impacto social.</p>
+    <p><strong></strong> 🌐 Voluntário do programa <strong>Google Student Ambassador 2026</strong>.</p>
+    <p><strong></strong> ⚙️ Foco no desenvolvimento de back-end robusto, mensageria e integração de fluxos complexos.</p>
   </blockquote>
 </details>
 
