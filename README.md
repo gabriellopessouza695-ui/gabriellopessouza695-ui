@@ -9,21 +9,15 @@
 
 <br>
 
-<!-- FASE 2: STATS CARDS -->
+<!-- FASE 2: STATS CARDS E LINGUAGENS -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=gabriellopessouza695-ui&background=00000000&ring=A78BFA&fire=10B981&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=94A3B8&stroke=22D3EE&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=gabriellopessouza695-ui&background=transparent&ring=A78BFA&fire=10B981&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=94A3B8&stroke=22D3EE&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<table width="100%" align="center" border="0" cellpadding="0" cellspacing="0" style="background-color: transparent;">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=gabriellopessouza695-ui&bg_color=00000000&title_color=22D3EE&text_color=F8FAFC&icon_color=A78BFA&hide_border=true&hide_rank=true&show_icons=true" alt="GitHub Stats" width="90%" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellopessouza695-ui&bg_color=00000000&title_color=22D3EE&text_color=F8FAFC&layout=compact&hide_border=true" alt="Top Languages" width="90%" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabriellopessouza695-ui&bg_color=transparent&title_color=22D3EE&text_color=F8FAFC&icon_color=A78BFA&hide_border=true&hide_rank=true&show_icons=true" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellopessouza695-ui&bg_color=transparent&title_color=22D3EE&text_color=F8FAFC&layout=compact&hide_border=true" alt="Top Languages" width="49%" />
+</p>
 
 <!-- FASE 3: SNAKE ANIMATION -->
 <p align="center">
