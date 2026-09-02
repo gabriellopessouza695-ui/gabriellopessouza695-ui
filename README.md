@@ -8,7 +8,6 @@
 </div>
 
 <br>
-
 <!-- FASE 2: STATS CARDS E LINGUAGENS -->
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=gabriellopessouza695-ui&background=transparent&ring=A78BFA&fire=10B981&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=94A3B8&stroke=22D3EE&hide_border=true" alt="GitHub Streak" />
