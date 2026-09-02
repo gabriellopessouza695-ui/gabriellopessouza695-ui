@@ -26,6 +26,11 @@
   </picture>
 </p>
 
+<!-- FASE 4: PROJECTS SHOWCASE -->
+<p align="center" style="margin-top: 30px;">
+  <img alt="Meus Projetos" src="./projects.svg?v=1" width="100%">
+</p>
+
 <!-- FASE 4: SOCIAL BADGES COMPACTADAS -->
 <p align="center" style="margin-top: -15px;">
   <a href="https://www.linkedin.com/in/gabriel-lopes-90422a241" target="_blank">
