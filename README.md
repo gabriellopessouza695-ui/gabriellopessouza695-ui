@@ -15,10 +15,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabriellopessouza695-ui&bg_color=transparent&title_color=22D3EE&text_color=F8FAFC&icon_color=A78BFA&hide_border=true&hide_rank=true&show_icons=true" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellopessouza695-ui&bg_color=transparent&title_color=22D3EE&text_color=F8FAFC&layout=compact&hide_border=true" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gabriellopessouza695-ui&bg_color=00000000&title_color=22D3EE&text_color=F8FAFC&icon_color=A78BFA&hide_border=true&hide_rank=true&show_icons=true" height="195" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellopessouza695-ui&bg_color=00000000&title_color=22D3EE&text_color=F8FAFC&layout=compact&hide_border=true" height="195" alt="Top Languages" />
 </p>
-
 <!-- FASE 3: SNAKE ANIMATION -->
 <p align="center">
   <picture>
